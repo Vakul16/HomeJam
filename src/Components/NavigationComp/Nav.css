@@ -1,0 +1,40 @@
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 70px;
+  padding: 0px 10%;
+  font-size: 700;
+}
+nav ul {
+  display: flex;
+  list-style: none;
+}
+.nav-icon a {
+  color: #ffffff;
+}
+.nav-icon {
+  display: flex;
+  align-self: center;
+  padding: 30px 20px 20px 20px;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 80%;
+  color: #ffffff;
+}
+.search-icon {
+  color: #ffffff;
+  display: flex;
+  align-self: center;
+  padding: 30px 0px 20px 60px;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 80%;
+}
+.logo {
+  font-size: 100px;
+}
+.active {
+  font-weight: bold;
+  color: white;
+}

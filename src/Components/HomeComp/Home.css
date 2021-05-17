@@ -1,0 +1,66 @@
+.Home {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url("../mainImg.png");
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+.text-container {
+  height: 450px;
+  align-self: center;
+  padding: 180px 0;
+  text-align: left;
+  margin-top: 20px;
+  font: bold;
+  color: white;
+  width: 80%;
+}
+.text-container h1 {
+  font-family: Libre Baskerville;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 80px;
+  line-height: 96px;
+}
+.text-container p {
+  font-family: Nunito;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 32px;
+  color: #ffffff;
+  opacity: 0.6;
+}
+
+.lader {
+  display: flex;
+  align-self: center;
+  padding: 20px 60px 20px 60px;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 80%;
+}
+
+.btn-lader {
+  height: 160px;
+  width: 160px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid #dd4cac;
+  border-radius: 100%;
+  border: top left 1px rgb(128, 128, 128, 0.5);
+  border-top: 1px solid rgb(128, 128, 128, 0.5);
+  border-left: 1px solid rgb(128, 128, 128, 0.5);
+}
+.btn2-lader {
+  height: 160px;
+  width: 160px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid rgb(128, 128, 128, 0.5);
+  border-radius: 100%;
+}
