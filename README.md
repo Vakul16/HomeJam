@@ -75,5 +75,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ### ReactJs
 ### JavaScript
 ### HTML & CSS
-### Third-Party Components
+### Third-Party Components (MDBootstrap, Font Awesome)
 
